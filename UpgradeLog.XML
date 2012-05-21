@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ioc">
+</Property><Property Name="File di soluzione" Value="C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.sln">
+</Property><Property Name="Date" Value="sabato 31 marzo 2012">
+</Property><Property Name="Time" Value="8.22">
+</Property></Properties><Event ErrorLevel="0" Project="ioc" Source="ioc\ioc.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="ioc" Source="ioc\ioc.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ioc.tests" Source="ioc.tests\ioc.tests.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="ioc.tests" Source="ioc.tests\ioc.tests.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ioc.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="ioc.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ioc" Source="ioc\ioc.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event><Event ErrorLevel="0" Project="ioc.tests" Source="ioc.tests\ioc.tests.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

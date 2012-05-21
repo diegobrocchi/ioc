@@ -1,0 +1,15 @@
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\ioc.tests.dll
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\ioc.tests.pdb
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\ioc.tests.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\ioc.exe
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\NSubstitute.dll
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\ioc.pdb
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Debug\ioc.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Debug\ioc.tests.Resources.resources
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Debug\ioc.tests.vbproj.GenerateResource.Cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Debug\ioc.tests.dll
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Debug\ioc.tests.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Debug\ioc.tests.pdb

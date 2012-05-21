@@ -1,0 +1,21 @@
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\bin\Release\ioc.exe
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\bin\Release\ioc.pdb
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\bin\Release\ioc.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Release\ioc.Form1.resources
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Release\ioc.Resources.resources
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Release\ioc.vbproj.GenerateResource.Cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Release\ioc.exe
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Release\ioc.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Release\ioc.pdb
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\ioc.exe
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\ioc.xml
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\ioc.pdb
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\bin\Release\ioc.exe
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\bin\Release\ioc.pdb
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\bin\Release\ioc.xml
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\ResolveAssemblyReference.cache
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\ioc.Form1.resources
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\ioc.Resources.resources
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\GenerateResource.read.1.tlog
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc\obj\Release\GenerateResource.write.1.tlog

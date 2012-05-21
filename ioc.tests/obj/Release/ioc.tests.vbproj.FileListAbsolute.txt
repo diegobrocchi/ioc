@@ -1,0 +1,30 @@
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\ioc.tests.dll
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\ioc.tests.pdb
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\ioc.tests.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\ioc.exe
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\nunit.framework.dll
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\nunit.framework.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\ioc.pdb
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\ioc.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Release\ioc.tests.Resources.resources
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Release\ioc.tests.vbproj.GenerateResource.Cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Release\ioc.tests.dll
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Release\ioc.tests.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\obj\Release\ioc.tests.pdb
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc.tests\bin\Release\NSubstitute.dll
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\ioc.tests.dll
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\ioc.tests.pdb
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\ioc.tests.xml
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\ioc.exe
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\nunit.framework.dll
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\ioc.pdb
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\ioc.xml
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\bin\Release\nunit.framework.xml
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\obj\Release\ioc.tests.Resources.resources
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\obj\Release\GenerateResource.read.1.tlog
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\obj\Release\GenerateResource.write.1.tlog
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\obj\Release\ioc.tests.dll
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\obj\Release\ioc.tests.xml
+C:\Users\diego\Documents\Visual Studio 2010\Projects\ioc\ioc.tests\obj\Release\ioc.tests.pdb

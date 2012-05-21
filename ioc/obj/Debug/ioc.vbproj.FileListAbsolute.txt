@@ -1,0 +1,10 @@
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\bin\Debug\ioc.exe
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\bin\Debug\ioc.pdb
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\bin\Debug\ioc.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Debug\ioc.Form1.resources
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Debug\ioc.Resources.resources
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Debug\ioc.vbproj.GenerateResource.Cache
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Debug\ioc.exe
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Debug\ioc.xml
+C:\Documents and Settings\brocchi\Documenti\Visual Studio 2008\Projects\ioc\ioc\obj\Debug\ioc.pdb
